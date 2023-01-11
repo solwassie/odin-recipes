@@ -1,0 +1,14 @@
+.title{
+    font-family: monospace;
+    font-size: 50px;
+    align-items: center;
+    font-weight:bold;
+    background-color: coral;
+    color: white;
+}
+
+.recipes {
+    font-family: monospace;
+    font-size: 25px;
+    background-color: antiquewhite;
+}
